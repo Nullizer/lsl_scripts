@@ -1,0 +1,5 @@
+local_docs/
+test*.sh
+test*.js
+config.js
+node_modules/
